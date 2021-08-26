@@ -1,2 +1,17 @@
-# simple-GUI-Image-Processing-Tool-in-Python
-This is Very Simple GUI Based Image Processing Tool in Python 3 . Just have to write the image name and all the tasks will be performed
+                   
+
+
+
+
+				   This Code is Written by 
+                        Debraj Basak 
+    (CEH v11 , CCNA 3.0 , CPENT , NPT , WAPT , RE & MA) 
+Cyber Security Research Analyst at ISOAH Data Securities Pvt. Ltd.
+
+
+Contact - debrajbasakofficial@gmail.com
+
+
+
+Thanks For Reading
+
